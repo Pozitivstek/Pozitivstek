@@ -76,6 +76,21 @@
 
 <table>
 <tr>
+<td valign="top" colspan="2">
+
+### 🧭 [fodmap-compass](https://github.com/Pozitivstek/fodmap-compass) · [открыть бота ↗](https://t.me/dnewnikzdaroviabot)
+**ФудКомпас** — Telegram-бот и мини-приложение для людей на диете low-FODMAP, с непереносимостью лактозы, целиакией и аллергиями. Можно ли продукт и в какой порции (320 продуктов, светофор порции), сканер штрихкодов с разбором состава, дневник еды и самочувствия, личная переносимость продуктов, КБЖУ, огонёк серии дней, 30 рецептов, PDF-отчёт врачу и 9 тем оформления.<br>
+<sub>`Python` `FastAPI` `aiogram 3` `Telegram Mini App` `SQLite` `JavaScript` · 75 тестов</sub>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Pozitivstek/fodmap-compass/main/docs/screenshots/home.jpg" width="200" alt="ФудКомпас: главная">
+<img src="https://raw.githubusercontent.com/Pozitivstek/fodmap-compass/main/docs/screenshots/food.jpg" width="200" alt="ФудКомпас: карточка продукта">
+<img src="https://raw.githubusercontent.com/Pozitivstek/fodmap-compass/main/docs/screenshots/themes.jpg" width="200" alt="ФудКомпас: темы">
+</p>
+
+</td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 ### 📄 [doc-chat](https://github.com/Pozitivstek/doc-chat)
