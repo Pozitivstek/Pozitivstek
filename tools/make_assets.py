@@ -113,8 +113,8 @@ def terminal() -> str:
         (0.4, [("$ ", LIME), ("whoami", TEXT)], 78),
         (1.0, [("pozitiv", CYAN), (" · python &amp; full-stack developer", MUTED)], 104),
         (1.9, [("$ ", LIME), ("ls projects/", TEXT)], 140),
-        (2.5, [("fodmap-compass  people-vision  doc-chat", CYAN)], 166),
-        (2.5, [("coffee-shop-bot  daily-digest-bot", CYAN)], 190),
+        (2.5, [("fpv-drone-bot  fodmap-compass  people-vision", CYAN)], 166),
+        (2.5, [("doc-chat  coffee-shop-bot  daily-digest-bot", CYAN)], 190),
         (3.4, [("$ ", LIME), ("cat status.txt", TEXT)], 226),
     ]
     rows = []
